@@ -1,0 +1,5 @@
+/Volumes/OsAmA/KSUFallSemster/C# projects/unittyLab/Lob5/Lob5/Lob5/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/OsAmA/KSUFallSemster/C# projects/unittyLab/Lob5/Lob5/Lob5/bin/Debug/Lob5.exe.mdb
+/Volumes/OsAmA/KSUFallSemster/C# projects/unittyLab/Lob5/Lob5/Lob5/bin/Debug/Lob5.exe
+/Volumes/OsAmA/KSUFallSemster/C# projects/unittyLab/Lob5/Lob5/Lob5/obj/x86/Debug/Lob5.exe
+/Volumes/OsAmA/KSUFallSemster/C# projects/unittyLab/Lob5/Lob5/Lob5/obj/x86/Debug/Lob5.exe.mdb
