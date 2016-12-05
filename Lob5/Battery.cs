@@ -2,6 +2,9 @@
 
 namespace Lob5
 {
+	/*
+	 * this is a commet to add new commit on git 
+	 */
 	public class Battery
 	{
 		private String model;
